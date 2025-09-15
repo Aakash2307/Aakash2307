@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Aakash Chari  
 
-<!--
-**Aakash2307/Aakash2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Full-Stack Developer | MERN Stack | Python Enthusiast**  
+🌱 Currently learning DSA & improving problem-solving skills  
+🚀 Building projects in **MERN Stack** and experimenting with **AI/ML**  
+🎯 Goal: Solve the problems which needs me the most
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- 🐍 Python  
+- 🌐 JavaScript  
+- ⚛️ React.js  
+- 🎨 HTML, CSS, Tailwind  
+- 🖥️ Node.js, Express.js  
+- 🗄️ MongoDB  
+- 🔧 Git & GitHub  
+
+---
+
+## 📌 Current Projects
+- 🏫 **School Billing Software (Python)** – Manage student fees & generate invoices  
+- 📊 **Admin/Teacher/Student Dashboards (Flutter + Node.js)** – Full school ERP system  
+- 🌐 **Portfolio Website** – Showcasing my projects and skills  
+
+---
+
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*  
