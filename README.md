@@ -7,7 +7,7 @@
 💻 **Aspiring Full-Stack Developer**  
 🌱 Currently sharpening my **DSA** & problem-solving skills  
 🚀 Building projects with **MERN Stack & Python**  
-🎯 Goal: **20+ LPA package as a fresher**  
+🎯 Goal: Bringing up innovating solutions 
 
 ---
 
