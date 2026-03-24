@@ -23,7 +23,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AakashChari&theme=highcontrast&ring=00C7F7&fire=00C7F7&currStreakLabel=00C7F7)](https://git.io/streak-stats)
 
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashChari&layout=compact&theme=vision-friendly-dark&title_color=00C7F7)](https://github.com/Aakash2307/github-readme-stats)
 ---
 
 ## ✨ Fun Quote
