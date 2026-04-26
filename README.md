@@ -4,9 +4,9 @@
 ---
 
 # 🧑‍💻 About Me
-💻 **Aspiring Full-Stack Developer**  
+💻 **Aspiring  Developer**  
 🌱 Currently sharpening my **DSA** & problem-solving skills  
-🚀 Building projects with **MERN Stack & Python**  
+🚀 Building projects that bridges the gap between **MERN Stack & Python**  
 🎯 Goal: Bringing up innovating solutions 
 
 ---
