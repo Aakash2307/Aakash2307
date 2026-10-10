@@ -6,7 +6,7 @@
 # 🧑‍💻 About Me
 💻 **Developer**  
 🌱 Currently sharpening my **DSA** & problem-solving skills  
-🚀 Building projects that bridges the gap between **MERN Stack & AIML**  
+🚀 Building projects that excites or encourages the curiosity in me   
 🎯 Goal: Bringing up innovating solutions 
 
 ---
